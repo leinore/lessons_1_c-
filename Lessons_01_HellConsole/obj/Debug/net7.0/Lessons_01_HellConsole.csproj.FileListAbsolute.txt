@@ -1,0 +1,15 @@
+/Users/zksystem/Anastasia/Studies/GeekBrains/Разработчик/C#/Lessons/Lessons_01_HellConsole/bin/Debug/net7.0/Lessons_01_HellConsole
+/Users/zksystem/Anastasia/Studies/GeekBrains/Разработчик/C#/Lessons/Lessons_01_HellConsole/bin/Debug/net7.0/Lessons_01_HellConsole.deps.json
+/Users/zksystem/Anastasia/Studies/GeekBrains/Разработчик/C#/Lessons/Lessons_01_HellConsole/bin/Debug/net7.0/Lessons_01_HellConsole.runtimeconfig.json
+/Users/zksystem/Anastasia/Studies/GeekBrains/Разработчик/C#/Lessons/Lessons_01_HellConsole/bin/Debug/net7.0/Lessons_01_HellConsole.dll
+/Users/zksystem/Anastasia/Studies/GeekBrains/Разработчик/C#/Lessons/Lessons_01_HellConsole/bin/Debug/net7.0/Lessons_01_HellConsole.pdb
+/Users/zksystem/Anastasia/Studies/GeekBrains/Разработчик/C#/Lessons/Lessons_01_HellConsole/obj/Debug/net7.0/Lessons_01_HellConsole.csproj.AssemblyReference.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/Разработчик/C#/Lessons/Lessons_01_HellConsole/obj/Debug/net7.0/Lessons_01_HellConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zksystem/Anastasia/Studies/GeekBrains/Разработчик/C#/Lessons/Lessons_01_HellConsole/obj/Debug/net7.0/Lessons_01_HellConsole.AssemblyInfoInputs.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/Разработчик/C#/Lessons/Lessons_01_HellConsole/obj/Debug/net7.0/Lessons_01_HellConsole.AssemblyInfo.cs
+/Users/zksystem/Anastasia/Studies/GeekBrains/Разработчик/C#/Lessons/Lessons_01_HellConsole/obj/Debug/net7.0/Lessons_01_HellConsole.csproj.CoreCompileInputs.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/Разработчик/C#/Lessons/Lessons_01_HellConsole/obj/Debug/net7.0/Lessons_01_HellConsole.dll
+/Users/zksystem/Anastasia/Studies/GeekBrains/Разработчик/C#/Lessons/Lessons_01_HellConsole/obj/Debug/net7.0/refint/Lessons_01_HellConsole.dll
+/Users/zksystem/Anastasia/Studies/GeekBrains/Разработчик/C#/Lessons/Lessons_01_HellConsole/obj/Debug/net7.0/Lessons_01_HellConsole.pdb
+/Users/zksystem/Anastasia/Studies/GeekBrains/Разработчик/C#/Lessons/Lessons_01_HellConsole/obj/Debug/net7.0/Lessons_01_HellConsole.genruntimeconfig.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/Разработчик/C#/Lessons/Lessons_01_HellConsole/obj/Debug/net7.0/ref/Lessons_01_HellConsole.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lessons_01_HellConsole/1.0.0": {
+        "runtime": {
+          "Lessons_01_HellConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lessons_01_HellConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
